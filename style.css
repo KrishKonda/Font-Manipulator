@@ -1,0 +1,24 @@
+.heading{
+    font-size:25px;
+    margin:0px;
+    width:100%;
+    box-shadow:5px 5px 5px lightblue;
+}
+.note{
+    font-size:15px;
+    color: darkgreen;
+}
+.copy_right_footer{
+    position:fixed;
+    color:darkturquoise;
+    bottom:0;
+    width:100%;
+    background-color:gainsboro;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px goldenrod;
+}
